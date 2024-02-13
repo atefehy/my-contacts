@@ -1,0 +1,11 @@
+C:\Users\MyDear\source\repos\Contact\Contact\bin\Debug\Contact.exe.config
+C:\Users\MyDear\source\repos\Contact\Contact\bin\Debug\Contact.exe
+C:\Users\MyDear\source\repos\Contact\Contact\bin\Debug\Contact.pdb
+C:\Users\MyDear\source\repos\Contact\Contact\obj\Debug\Contacts.csproj.AssemblyReference.cache
+C:\Users\MyDear\source\repos\Contact\Contact\obj\Debug\Contact.contactmain.resources
+C:\Users\MyDear\source\repos\Contact\Contact\obj\Debug\Contact.Properties.Resources.resources
+C:\Users\MyDear\source\repos\Contact\Contact\obj\Debug\Contacts.csproj.GenerateResource.cache
+C:\Users\MyDear\source\repos\Contact\Contact\obj\Debug\Contacts.csproj.CoreCompileInputs.cache
+C:\Users\MyDear\source\repos\Contact\Contact\obj\Debug\Contact.exe
+C:\Users\MyDear\source\repos\Contact\Contact\obj\Debug\Contact.pdb
+C:\Users\MyDear\source\repos\Contact\Contact\obj\Debug\Contact.FrmAddorEdit.resources
